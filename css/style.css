@@ -94,6 +94,7 @@ img {
 }
 .project {
   box-shadow: 0 1px 1px 0 rgba(5, 4, 20, 20%);
+  background-color: #ededed;
   width: 100%;
 }
 
@@ -104,7 +105,7 @@ img {
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #4a4a4a;
+  color: black;
   padding: 0px 25px 25px 25px;
 }
 
@@ -121,6 +122,7 @@ footer div {
   display: flex;
   align-content: center;
   padding: 10px 20px;
+  margin-top: 20px;
   color: rgba(255, 255, 255, 0.5);
 }
 @media all and (max-width:700px) {
